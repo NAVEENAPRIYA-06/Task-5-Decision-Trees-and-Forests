@@ -17,6 +17,6 @@ Tools Used:
 
 Result Images:
 
-* ![Decision Tree Full Depth](01_decision_tree_full.png): Visualization of the overfitted model.
-* ![Decision Tree Max Depth 3](02_decision_tree_depth_3.png): Visualization of the controlled model.
-* ![Random Forest Feature Importances](03_rf_feature_importances.png): Bar chart showing feature importances.
+* [01_decision_tree_full.png: Visualization of the overfitted model.](01_decision_tree_full.png)
+* [02_decision_tree_depth_3.png: Visualization of the controlled model.](02_decision_tree_depth_3.png)
+* [03_rf_feature_importances.png: Bar chart showing feature importances.](03_rf_feature_importances.png)
