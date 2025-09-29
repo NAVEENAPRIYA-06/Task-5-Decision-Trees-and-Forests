@@ -155,6 +155,4 @@ print(f"Decision Tree (Depth=3) CV Mean Accuracy: {np.mean(dt_scores):.4f}")
 
 # Evaluate the Random Forest
 rf_scores = cross_val_score(rf_classifier, X, y, cv=10, scoring='accuracy')
-print(f"Random Forest CV Mean Accuracy: {np.mean(rf_scores):.4f}")
-
-print("\n--- Task Complete: All models trained and evaluated. ---")
+print(f"Random Forest CV Mean Accuracy: {np.mean(rf_scores):.
