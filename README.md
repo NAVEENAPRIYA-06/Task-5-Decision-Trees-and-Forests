@@ -9,9 +9,9 @@ To implement and compare Decision Tree and Random Forest classifiers using Sciki
 Tools Used:
 
 * Python/Scikit-learn
-* **Pandas/NumPy
-* **Matplotlib
-* **Graphviz
+* Pandas/NumPy
+* Matplotlib
+* Graphviz
 
 ------------------------------------------------------------------------------------------------------------------------
 
